@@ -162,4 +162,4 @@ cython_debug/
 
 
 UpdateUtil
-main.py
+/main.py
